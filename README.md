@@ -116,6 +116,7 @@
  - NLTK
  - spaCy
  - re (regex)
+ - pandas
 
 ---
 
