@@ -111,70 +111,81 @@ Natural Language Processing (NLP) is a field of artificial intelligence (AI) tha
 - Named Entity Recognition (NER)
 - Dependency Parsing
 - Syntax Trees (Basic grammar structure)
+  
 📦 **Libraries:**
-- NLTK
-- spaCy
-- re (regex)
+ - NLTK
+ - spaCy
+ - re (regex)
 
 ---
 
 🧮 **PHASE 2: Text Representation (Vectorization)**
+
 📌 Goal: Convert text into numerical features for ML/DL.
+
 ✅ **Topics:**
 - Bag of Words (BoW)
 - TF-IDF
 - N-grams
 - Word embeddings:
-   Word2Vec (CBOW & Skip-gram)
-   GloVe
-   FastText
-📦 **Tools:**
-- scikit-learn
-- gensim
+   - Word2Vec (CBOW & Skip-gram)
+   - GloVe
+   - FastText
+  
+📦**Tools:**
+ - scikit-learn
+ - gensim
 
 ---
 
 🧠 **PHASE 3: Classical NLP Tasks & Machine Learning**
+
 📌 Goal: Apply ML to text data.
+
 ✅ **Tasks:**
 - Text classification (spam/ham, sentiment)
 - Topic modeling (LDA)
 - Text similarity (cosine similarity)
 - Named Entity Recognition (NER)
 - POS tagging
-✅ ML Algorithms:
+- ✅ ML Algorithms:
    - Naive Bayes
    - Logistic Regression
    - SVM
 - Decision Trees
-📦 **Tools:**
-- scikit-learn
-- XGBoost
-- VADER
 
+📦**Tools:**
+ - scikit-learn
+ - XGBoost
+ - VADER
 ---
 
 🤖 **PHASE 4: Deep Learning for NLP**
+
 📌 Goal: Use neural networks for NLP tasks.
+
 ✅ **Topics:**
 - Embedding layers
 - RNN (Recurrent Neural Networks)
 - LSTM, GRU
 - Attention mechanism (pre-transformers)
 - Seq2Seq models
+  
 ✅ Tasks:
    - Sentiment analysis
    - Language modeling
    - Text generation
    - Machine translation
+     
 📦 **Tools:**
 - TensorFlow or PyTorch
 - Keras
-
 ---
 
 ⚡ **PHASE 5: Transformers & Modern NLP (Advanced)**
+
 📌 Goal: Master SOTA (State-of-the-Art) NLP models.
+
 ✅ **Topics:**
 - Attention mechanism (deep dive)
 - Transformer architecture (encoder-decoder)
@@ -184,6 +195,7 @@ Natural Language Processing (NLP) is a field of artificial intelligence (AI) tha
 - Masked Language Modeling (MLM)
 - Next Sentence Prediction (NSP)
 - Fine-tuning pre-trained models
+  
 ✅ Tasks:
    - Text classification
    - Question answering
@@ -192,14 +204,16 @@ Natural Language Processing (NLP) is a field of artificial intelligence (AI) tha
    - Translation
    - Chatbots
 
-📦 **Tools:**
+📦**Tools:**
 - HuggingFace Transformers
 - TensorFlow/Keras, PyTorch
 
 ---
 
 📦 **PHASE 6: NLP Projects**
+
 📌 Goal: Apply everything in real-world projects.
+
 ✅ Project Ideas:
 - Sentiment analyzer for reviews
 - Chatbot using Rasa or Transformers
@@ -209,29 +223,17 @@ Natural Language Processing (NLP) is a field of artificial intelligence (AI) tha
 - Fake news detector
 - Email classification
 - Text-based search engine
-
 ---
 
 🔬 **PHASE 7: Research & Paper Reading**
+
 📌 Goal: Stay current with NLP advancements.
+
 ✅ Resources:
 - arXiv (cs.CL, cs.LG)
 - Papers with Code
 - Hugging Face blog
 - Stanford NLP, DeepMind, Google AI papers
-
----
-
-🔗 Bonus: NLP + Other Fields
-
-NLP + CV (Multimodal AI)
-
-NLP + Knowledge Graphs
-
-NLP + Speech (ASR, TTS)
-
-Prompt Engineering (for LLMs)
-
 ---
 
 🧹 Text Preprocessing Pipeline
