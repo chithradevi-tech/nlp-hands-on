@@ -6,5 +6,5 @@
 - **Stemming / Lemmatization:**  Reduce words to their root or base form (using NLTK's token.lemma_)
 - **Stop Words:** Remove common, non-essential words (e.g., "the", "and", "is") (using NLTK’s stopwords corpus)
 - **POS Tagging:** Identify grammatical roles of words (nouns, verbs, adjectives, etc.) (using NLTK’s pos_tag or spaCy’s token.pos_ / token.tag_ attributes).
-
+- **Expand Contractions:** Replace contractions like "don't" with "do not" to standardize text (using the contractions package or custom mapping).
 ---
