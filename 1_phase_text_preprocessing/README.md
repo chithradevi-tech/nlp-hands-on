@@ -2,7 +2,7 @@
 
 - **Case Folding:** Convert all text to lowercase to ensure uniformity and to treat words like "Apple" and "apple" as identical (using Pandas .str.lower() or Python .lower()).
 
-- Remove Special Characters Eliminate non-alphanumeric characters to focus on meaningful words.(regular expression, pandas, spaCy)
+- **Remove Special Characters:** Eliminate non-alphanumeric characters to focus on meaningful words (using regular expressions, Pandas .str.replace()).
 
 - Tokenization Break text into individual words (tokens) for further processing.(SpaCy)
 
