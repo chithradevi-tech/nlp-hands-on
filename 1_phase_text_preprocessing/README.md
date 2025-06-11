@@ -2,9 +2,9 @@
 
 - Case Folding Convert all text to lowercase to ensure uniformity and to treat words like "Apple" and "apple" as identical.
 
-Remove Special Characters Eliminate non-alphanumeric characters to focus on meaningful words.
+- Remove Special Characters Eliminate non-alphanumeric characters to focus on meaningful words.(regular expression, pandas, spaCy)
 
-Tokenization Break text into individual words (tokens) for further processing.
+- Tokenization Break text into individual words (tokens) for further processing.(SpaCy)
 
 Remove Stop Words Filter out common words (e.g., "the", "is") that don't contribute significant meaning.
 
@@ -82,14 +82,3 @@ Linguistics is the scientific study of language — how it works, how it is stru
   How language varies across groups (age, region, class) or how it’s processed in the brain.
 
 ---
-
-🐼 What is Pandas?
-Pandas is a powerful and easy-to-use Python library for working with structured data — especially tables (like spreadsheets, SQL tables, or CSV files).
-
-🔧 Key Features of Pandas:
-Feature Description
-Data structures Provides Series (1D) and DataFrame (2D) for organizing data.
-Data handling Easily handles missing data, filtering, sorting, and cleaning.
-File I/O Read/write data from CSV, Excel, SQL, JSON, etc.
-Data manipulation Allows powerful operations like grouping, merging, pivoting, etc.
-Time series support Built-in support for time-indexed data.
