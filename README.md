@@ -216,31 +216,6 @@
 
 ---
 
-📦 **PHASE 6: NLP Projects**
-
-📌 Goal: Apply everything in real-world projects.
-
-✅ Project Ideas:
-- Sentiment analyzer for reviews
-- Chatbot using Rasa or Transformers
-- Resume parser
-- News article summarizer
-- Question answering app with BERT
-- Fake news detector
-- Email classification
-- Text-based search engine
----
-
-🔬 **PHASE 7: Research & Paper Reading**
-
-📌 Goal: Stay current with NLP advancements.
-
-✅ Resources:
-- arXiv (cs.CL, cs.LG)
-- Papers with Code
-- Hugging Face blog
-- Stanford NLP, DeepMind, Google AI papers
----
 
 
 
