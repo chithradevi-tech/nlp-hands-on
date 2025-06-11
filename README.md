@@ -89,16 +89,15 @@
 📚 **PHASE 1: Text Preprocessing & Linguistics Basics**
 - Text preprocessing is about preparing raw text data for analysis and modeling:
 
-| **Category**                   | **Concept**                   | **Description**                                                             |
-| ------------------------------ | ----------------------------- | --------------------------------------------------------------------------- |
-| **Cleaning & Normalization**\* | Lowercasing                   | Convert all text to lowercase                                               |
-|                                | Special Characters            | Remove punctuation & special characters using regular expressions           |
-|                                | Tokenization                  | Split text into smaller units, like words or sentences                      |
-|                                | Stemming / Lemmatization      | Reduce words to their root or base form                                     |
-|                                | Stop Words                    | Remove common, non-essential words (e.g., "the", "and", "is")               |
-|                                | Parts of Speech (POS) Tagging | Identify grammatical roles of words (nouns, verbs, etc.)                    |
-| **Vectorization**              | Document-Term Matrix (DTM)    | Represent text by word frequency, also known as Bag of Words                |
-|                                | TF-IDF                        | Extension of DTM that weights words based on their importance in the corpus |
+| **Concept**                   | **Description**                                                   |
+| ----------------------------- | ----------------------------------------------------------------- |
+| Lowercasing                   | Convert all text to lowercase                                     |
+| Special Characters            | Remove punctuation & special characters using regular expressions |
+| Tokenization                  | Split text into smaller units, like words or sentences            |
+| Stemming / Lemmatization      | Reduce words to their root or base form                           |
+| Stop Words                    | Remove common, non-essential words (e.g., "the", "and", "is")     |
+| Parts of Speech (POS) Tagging | Identify grammatical roles of words (nouns, verbs, etc.)          |
+
 
 📌 Goal: Understand and clean raw text for NLP tasks.
 
@@ -123,6 +122,12 @@
 🧮 **PHASE 2: Text Representation (Vectorization)**
 
 📌 Goal: Convert text into numerical features for ML/DL.
+
+| **Concept**                | **Description**                                                             |
+| -------------------------- | --------------------------------------------------------------------------- |
+| Document-Term Matrix (DTM) | Represent text by word frequency, also known as Bag of Words                |
+| TF-IDF                     | Extension of DTM that weights words based on their importance in the corpus |
+
 
 ✅ **Topics:**
 - Bag of Words (BoW)
