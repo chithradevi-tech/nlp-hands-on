@@ -1,3 +1,40 @@
+**Linguistics**
+
+Linguistics is the scientific study of language — how it works, how it is structured, how it is used, and how it evolves.
+
+**Key Subfields:**
+
+**Phonetics & Phonology**
+
+Study of the sounds of speech — how they are produced and perceived.
+Example: Why “cat” and “bat” sound different.
+
+**Morphology**
+
+The structure of words and how they are formed.
+Example: “Unbreakable” = “un-” + “break” + “-able”.
+
+**Syntax**
+
+How words are combined into sentences according to grammar rules.
+Example: Why “She loves cats” is correct but “Loves she cats” is not.
+
+**Semantics**
+
+The meaning of words and sentences.
+Example: “Bank” can mean a place for money or a riverbank — context matters.
+
+**Pragmatics**
+
+How language is used in context, including tone, intention, and social rules.
+Example: “Can you pass the salt?” isn’t really a question — it’s a polite request.
+
+**Sociolinguistics & Psycholinguistics**
+
+Study of how language varies across social groups (age, region, class) and how it is processed in the brain.
+
+---
+
 🧹 Text Preprocessing Pipeline To prepare raw text data for Natural Language Processing (NLP) tasks, the following preprocessing steps are commonly applied:
 
 - **Case Folding:** Convert all text to lowercase to ensure uniformity and to treat words like "Apple" and "apple" as identical (using Pandas .str.lower() or Python .lower()).
