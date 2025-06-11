@@ -42,6 +42,6 @@ Study of how language varies across social groups (age, region, class) and how i
 - **Tokenization:** Split text into smaller units, like words or sentences (using nltk.word_tokenize, nltk.sent_tokenize or str.split())
 - **Stemming / Lemmatization:**  Reduce words to their root or base form (using NLTK's token.lemma_)
 - **Stop Words:** Remove common, non-essential words (e.g., "the", "and", "is") (using NLTK’s stopwords corpus)
-- **POS Tagging:** Identify grammatical roles of words (nouns, verbs, adjectives, etc.) (using NLTK’s pos_tag or spaCy’s token.pos_ / token.tag_ attributes).
+- **Parts of speech (POS) tagging:** Identify grammatical roles of words (nouns, verbs, adjectives, etc.) (using NLTK’s pos_tag or spaCy’s token.pos_ / token.tag_ attributes).
 - **Expand Contractions:** Replace contractions like "don't" with "do not" to standardize text (using the contractions package or custom mapping).
 ---
