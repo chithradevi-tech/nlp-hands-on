@@ -173,7 +173,7 @@
 ✅ **Topics:**
 - Embedding layers
 - RNN (Recurrent Neural Networks)
-- LSTM, GRU
+- LSTM (Long Short Term Memory), GRU
 - Attention mechanism (pre-transformers)
 - Seq2Seq models
   
